@@ -46,8 +46,8 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 
 #### 集合类：
 
-	http://www.i3geek.com/archives/616
-	http://www.i3geek.com/archives/1233
+	JAVA高级——集合类: http://www.i3geek.com/archives/616
+	详细阐述集合类 :  http://www.i3geek.com/archives/1233
  
 - HashMap实现原理,源码阅读 http://www.i3geek.com/archives/1262
 - HashMap中Key的约束
